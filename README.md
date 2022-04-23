@@ -46,8 +46,8 @@ TamoJunto is a forum-styled community, aiming to be a space for the exchange of 
 ## :sparkles: Features
 
 :heavy_check_mark: Forum;\
-:heavy_check_mark: Create, edit and delete it if is the case your topics;\
-:heavy_check_mark: Create, edit and delete it if is the case your comments;\
+:heavy_check_mark: Create, (edit and delete it if is the case - not working) your topics;\
+:heavy_check_mark: Create, (edit and delete it if is the case - not working) your comments;\
 :heavy_check_mark: Find for topics;\
 :x: Save your favorites topics and posts (construction);\
 :x: Create your account and edit your profile (construction);\
